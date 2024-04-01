@@ -1,5 +1,3 @@
-setwd("C:/Users/Hawking's/Desktop/datasciencecoursera/rprog_data_ProgAssignment3-data")
-
 library(ggplot2)
 
 NEI <- readRDS("summarySCC_PM25.rds")
